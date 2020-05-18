@@ -1,0 +1,12 @@
+len() = a general purpose function to find length
+
+Methods -- they are specific functions related to a specific data type
+
+String Methods:
+1. upper() - to upper case
+2. lower() - to lower case
+3. find('') - find the index number of the first character of the string
+4. replace('old_value', 'new_value') - to replace part of a string's value to another value
+5. title() - to make snake case of each word
+6. in operator - 'letters' in String - to evaluate the presence/absence of a string value in a string - O/P is a boolean
+

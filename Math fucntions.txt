@@ -1,0 +1,7 @@
+Math is a module to be imported in a Python program.
+A module is a file that contains reusable code.
+It has various built-in functions to perform mathematical operations in Python.
+
+Methods:
+1. floor(number) - the previous whole number
+2. ceil(number) - the next whole number
